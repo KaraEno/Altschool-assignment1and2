@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Head Warmer",
+    "price": 80,
+    "size": "l"
+  },
+  {
+    "id": 2,
+    "name": "Winter Jacket",
+    "price": 150,
+    "size": "m"
+  },
+  {
+    "id": 3,
+    "name": "Thermal Gloves",
+    "price": 30,
+    "size": "s"
+  },
+  {
+    "id": 4,
+    "name": "Wool Scarf",
+    "price": 45,
+    "size": "l"
+  },
+  {
+    "id": 5,
+    "name": "Insulated Boots",
+    "price": 120,
+    "size": "xl"
+  },
+  {
+    "id": 6,
+    "name": "Fleece Lined Leggings",
+    "price": 60,
+    "size": "m"
+  },
+  {
+    "id": 7,
+    "name": "Down Vest",
+    "price": 100,
+    "size": "l"
+  },
+  {
+    "id": 8,
+    "name": "Thermal Socks",
+    "price": 20,
+    "size": "s"
+  },
+  {
+    "id": 9,
+    "name": "Puffer Coat",
+    "price": 200,
+    "size": "xl"
+  },
+  {
+    "id": 10,
+    "name": "Beanie Hat",
+    "price": 25,
+    "size": "m"
+  },
+  {
+    "name": "Coat",
+    "price": 50,
+    "size": "l",
+    "id": 11
+  },
+  {
+    "name": "mittens glove 23",
+    "price": 80,
+    "size": "l",
+    "id": 12
+  },
+  {
+    "name": "Head Gear",
+    "price": 40,
+    "size": "l",
+    "id": 13
+  }
+]
